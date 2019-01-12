@@ -1,3 +1,3 @@
 # Qlocktwo conky
 
-Cool clock conky.
+Cool text clock conky.
