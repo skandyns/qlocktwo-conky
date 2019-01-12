@@ -1,3 +1,3 @@
-# qlocktwo-conky
+# Qlocktwo conky
 
 Cool clock conky.
